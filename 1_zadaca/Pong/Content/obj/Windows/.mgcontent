@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/filip/Documents/Vještina c#/1 zadaca/zadaca/1_zadaca/Pong/Content/background.png</File>
+    <File>C:/Users/filip/Documents/Vještina c#/1 zadaca/zadaca/1_zadaca/Pong/Content/ball.png</File>
+    <File>C:/Users/filip/Documents/Vještina c#/1 zadaca/zadaca/1_zadaca/Pong/Content/paddle.jpg</File>
+    <File>C:/Users/filip/Documents/Vještina c#/1 zadaca/zadaca/1_zadaca/Pong/Content/music.mp3</File>
+    <File>C:/Users/filip/Documents/Vještina c#/1 zadaca/zadaca/1_zadaca/Pong/Content/hit.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

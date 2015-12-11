@@ -1,0 +1,6 @@
+C:\Users\filip\Documents\Vještina c#\1 zadaca\zadaca\1_zadaca\1_zadaca\bin\Debug\1_zadaca.exe.config
+C:\Users\filip\Documents\Vještina c#\1 zadaca\zadaca\1_zadaca\1_zadaca\bin\Debug\1_zadaca.exe
+C:\Users\filip\Documents\Vještina c#\1 zadaca\zadaca\1_zadaca\1_zadaca\bin\Debug\1_zadaca.pdb
+C:\Users\filip\Documents\Vještina c#\1 zadaca\zadaca\1_zadaca\1_zadaca\obj\Debug\1_zadaca.exe
+C:\Users\filip\Documents\Vještina c#\1 zadaca\zadaca\1_zadaca\1_zadaca\obj\Debug\1_zadaca.pdb
+C:\Users\filip\Documents\Vještina c#\1 zadaca\zadaca\1_zadaca\1_zadaca\obj\Debug\1_zadaca.csprojResolveAssemblyReference.cache
